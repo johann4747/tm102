@@ -1,0 +1,12 @@
+.build
+.mbed
+projectfiles
+*.py*
+mbed-os
+BUILD
+
+compile_commands.json
+.clangd
+.cache
+adafruit-gfx-library
+adafruit_ssd1306
